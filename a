@@ -1,0 +1,42 @@
+*   [33mcommit 47f8d080576ce807e1cbde2dfe3dbdf7a6c838bb[m[33m ([m[1;36mHEAD -> [m[1;32mfirst_branch[m[33m)[m
+[31m|[m[32m\[m  Merge: fdc42d8 75c8d87
+[31m|[m [32m|[m Author: JesusCastillo <jmcastillog9@gmail.com>
+[31m|[m [32m|[m Date:   Sat Aug 5 19:01:57 2023 -0500
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'main' into first_branch
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 75c8d87927cc57968bd2190e608836f671989cf8[m[33m ([m[1;32mmain[m[33m)[m
+[31m|[m [32m|[m Author: JesusCastillo <jmcastillog9@gmail.com>
+[31m|[m [32m|[m Date:   Sat Aug 5 18:55:29 2023 -0500
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     actualizacion v2 fichero 3
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit fdc42d839f1656c63ff3df69c10ece6706136af1[m
+[32m|[m[32m/[m  Author: JesusCastillo <jmcastillog9@gmail.com>
+[32m|[m   Date:   Sat Aug 5 18:50:58 2023 -0500
+[32m|[m   
+[32m|[m       Se crea la primera rama
+[32m|[m 
+* [33mcommit 1d0ff4b8ddbed22a8267be58d81053f76764cc6e[m
+[32m|[m Author: JesusCastillo <jmcastillog9@gmail.com>
+[32m|[m Date:   Fri Aug 4 21:22:03 2023 -0500
+[32m|[m 
+[32m|[m     Se agrega el tercer fichero
+[32m|[m 
+* [33mcommit a5321e63e717a1b70680cc89738a67b84697b16d[m[33m ([m[1;33mtag: primer_tag[m[33m)[m
+[32m|[m Author: JesusCastillo <jmcastillog9@gmail.com>
+[32m|[m Date:   Fri Aug 4 20:20:06 2023 -0500
+[32m|[m 
+[32m|[m     Se actualiza un archivo
+[32m|[m 
+* [33mcommit 10de09eed788a3e380266568e2195649980199f0[m
+[32m|[m Author: JesusCastillo <jmcastillog9@gmail.com>
+[32m|[m Date:   Fri Aug 4 20:13:22 2023 -0500
+[32m|[m 
+[32m|[m     Se agrega Segundo archivo
+[32m|[m 
+* [33mcommit 6e28048de658bce6e7b9702e0cef242e062ee187[m
+  Author: JesusCastillo <jmcastillog9@gmail.com>
+  Date:   Thu Aug 3 21:46:16 2023 -0500
+  
+      Se agrega la primera linea de codigo
